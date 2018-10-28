@@ -1,0 +1,25 @@
+html{
+  text-align: center;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin:0;
+  background-color: black;
+  color: purple;
+}
+
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+/***************************************
+LAYOUTTTTTTT
+*****************************************/
